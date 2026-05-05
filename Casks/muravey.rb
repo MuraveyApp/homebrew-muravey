@@ -1,6 +1,6 @@
 cask "muravey" do
-  version "3.22.2"
-  sha256 "3921e0fb8351b48a32b24120fa0ef493c1af219e5f835b2ee537abb52fd3ebca"
+  version "3.22.3"
+  sha256 "226fcf6bfccbcaed0f6e7a802b0a01cc3ec608e254286c1e97fa64de119858b5"
 
   url "https://github.com/MuraveyApp/Muravey/releases/download/v#{version}/Muravey-#{version}-macos.dmg"
   name "Муравей"
